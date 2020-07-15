@@ -12,7 +12,7 @@ evolução (ISO 42010:2011).
 * **Componentização**: junção dos componentes para um sistema ficar completo -
 como componentizar para ficar mais eficiênte;
 * **relacionamento entre sistemas**: funcionar de forma integrada
-(Microsserviços), para gerar uma cadeia de informações;
+(Microserviços), para gerar uma cadeia de informações;
 * **Governança**: documentação, definir times, tecnologias, integrações, etc;
     1. Infra-estrutura;
     2. Time;
@@ -24,7 +24,7 @@ na produção - por no ar;
 * **Cultura**: diferentes times tem visões diferentes - tentar administrar
 as culturas (mais arrojado, mais tradicional);
 
-*Mundo perfeito para os desenvolvedores*: microsserviços permite diversas
+*Mundo perfeito para os desenvolvedores*: microserviços permite diversas
 tecnologias diferentes;
 *Problema de falta de padronização*: dificuldades na reposição de equipes;
 
