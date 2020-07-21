@@ -11,7 +11,7 @@ evolução (ISO 42010:2011).
 * **Organização de um Sistema**: organização para entregar um produto;
 * **Componentização**: junção dos componentes para um sistema ficar completo -
 como componentizar para ficar mais eficiênte;
-* **relacionamento entre sistemas**: funcionar de forma integrada
+* **Relacionamento entre sistemas**: funcionar de forma integrada
 (Microserviços), para gerar uma cadeia de informações;
 * **Governança**: documentação, definir times, tecnologias, integrações, etc;
     1. Infra-estrutura;
@@ -24,7 +24,7 @@ na produção - por no ar;
 * **Cultura**: diferentes times tem visões diferentes - tentar administrar
 as culturas (mais arrojado, mais tradicional);
 
-*Mundo perfeito para os desenvolvedores*: microserviços permite diversas
+*Mundo perfeito para os desenvolvedores*: microsserviços permite diversas
 tecnologias diferentes;
 *Problema de falta de padronização*: dificuldades na reposição de equipes;
 

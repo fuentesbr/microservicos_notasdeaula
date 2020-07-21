@@ -33,14 +33,14 @@ Metodologia: DevOps / Full Cycle - juntando operação com desenvolvimento;
 FullStack Vs FullCycle - não necessariamente é um FullStack, mas faz uma tarefa
 até o final.
 
-Aplicações: Microserviços
+Aplicações: Microsserviços
 
 Infraestrutura: Containers;
 
 ## Momento Futuro
 
-Metodologia: NoOps - não vai mais precisar trabalhar com processos inteiros para a
-aplicação. Operações nas nuvens.
+Metodologia: NoOps - não vai mais precisar trabalhar com processos inteiros para
+a aplicação. Operações nas nuvens.
 
 Aplicações: Serveless Applications - não precisa mais criar máquinas, paga
 on demand.
