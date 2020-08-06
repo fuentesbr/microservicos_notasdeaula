@@ -144,9 +144,13 @@ Onde ficam as images? Dentro do IMAGE REGISTRY.
 Integração de _Namespaces, Cgroups e OFS_ dentro de uma mesma solução.
 
 **daemom API**: fica rodando na máquina servindo os comandos;
+
 **Docker Client**: faz as chamdas na API (rodar containers, run, pull, push);
+
 **Cache**: Salva as imagens para não fazer download novamente;
+
 **Volumes**: faz a persistência de dados dos containers;
+
 **Network**: Garante as comunicações entre os containers;
 
 ![Como o Doker funciona](../imagens/01_docker_01_introducao - imagem containers.png)
