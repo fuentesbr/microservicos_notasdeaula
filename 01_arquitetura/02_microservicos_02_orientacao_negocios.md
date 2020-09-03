@@ -23,7 +23,7 @@ ou atualizada" - unidade independente que se conecta com outras unidades;
 * **Time de desenvolvedores por produto:** um time tem mais de um serviço, porém
 entrega um produto - pensar no negócio
 * **Squads:** muitas empresas tratam os times como _squads_
-* **Multidisciplinar:** cada _squad_ é muito disciplinar
+* **Multidisciplinar:** cada _squad_ é muito multidisciplinar
 * **Produto:** cada _squad_ é responsável por um ou mais produtos
 * **Diversos serviços:** cada produto pode ter mais de um serviço (checkout de
     e-commerce: gerenciamento de produtos, estoque, entrega)

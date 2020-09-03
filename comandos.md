@@ -44,3 +44,10 @@
     docker exec NOME_CONTAINER COMANDO
         // roda comandos dentro do container
         // -it - roda interativamente dentro do container
+
+    docker volume
+        // ls - lista os volumes
+        // create - criar colume
+        // inspect NOME_VOLUME - dados do volume
+
+        docker volume create --driver local --opt type=none --opt device=$(pwd) --opt o=bind volume_local

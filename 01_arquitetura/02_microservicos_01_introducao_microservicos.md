@@ -21,9 +21,9 @@
         |               |           |           * Single point of failure
         \/              \/          \/              se o ESB cair, todo mundo cai
     /* SERVIÇO */  /* SERVIÇO */  /* SERVIÇO */
-    /\              /\          /\              * Compartilhamento de Bancos de dados é comum
-    |               |           |               
-    \/              \/          \/              * Muitas vezes sistemas monolíticos
+    /\              /\              /\          * Compartilhamento de Bancos de dados é comum
+    |               |               |               
+    \/              \/              \/          * Muitas vezes sistemas monolíticos
     /*******************************/               sendo utilizados como serviços
     |           BANCO DE DADOS      |
     /********************************/

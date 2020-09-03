@@ -15,3 +15,9 @@ Comando docker exex nome_container para rodar comandos dentro do container. Opç
 # Iniciando com Volumes
 
 Volume permitem persistir as informações do container no host.
+
+# Continuando com Volumes
+
+Bind de volumes - seta um diretório do container no computador local.
+
+
