@@ -20,4 +20,15 @@ Volume permitem persistir as informações do container no host.
 
 Bind de volumes - seta um diretório do container no computador local.
 
+# Trabalhando com Networks
 
+Por padrão, tem 3 tipos de rede: bridge (ponte), none (nenhuma rede acessível, apenas isolado), host (o container fala
+com a rede do computador).
+
+# Docker Commit
+
+Ao finalizar uma configuração, a gente irá criar nossas próprias imagens
+
+# Docker Push
+
+Envia as imagens para o repositorio próprio. è preciso rodar docker login

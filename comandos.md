@@ -22,6 +22,7 @@
         // --name nomear o container
         // -p - indicar a porta que será mapeada para o container - PORTA_HOST:PORTA_CONTAINER
         // -v - indica o caminho para os volumes LOCAL_HOST:LOCAL_CONTAINER
+        // --net - indica a rede 
 
     docker stop/start
         // para inicia o container
@@ -32,6 +33,7 @@
 
     docker rm ID/Name
         // remove um container pelo id ou nome randomico
+        docker rm $(docker ps -aq) -f //lista dos os hashs do docker e para para o rm -f
 
     docker images
         // lista as imagens que estão no cache
@@ -51,3 +53,13 @@
         // inspect NOME_VOLUME - dados do volume
 
         docker volume create --driver local --opt type=none --opt device=$(pwd) --opt o=bind volume_local
+
+    docker network
+        // ls - lista as redes
+        // inspect NOME_REDE - dados da rede
+        // create - criar rede
+
+    docker commit ID NOME
+
+    docker login
+
