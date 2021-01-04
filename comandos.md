@@ -30,6 +30,7 @@
     docker ps
         // lista os containers que estão rodando
         // -a - mostra todos os containers já rodados
+        // -q - mostra só os ids
 
     docker rm ID/Name
         // remove um container pelo id ou nome randomico
@@ -63,3 +64,27 @@
 
     docker login
 
+    docker build
+        // **Bilda** imagens a partir do dockerfile
+
+    docker-compose
+        // up sobe via docker-compose.yaml
+
+    dockerize
+        // -wait - espera a conexao via porta
+
+        dockerize -wait tpc://db:3306 --timeout XXs
+
+    docker logs NOME_CONTAINER
+        
+
+# Gitflow
+
+    git flow init
+        // inicia repositorio usando git flow
+
+    git flow feature start register
+        // inicia uma nova feature register
+
+    git flow release start 0.1.0
+        // publicar um release (versão) do sistema
